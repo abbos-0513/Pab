@@ -1,4 +1,4 @@
-aiogram>=3.0.0
+aaiogram>=3.0.0
 flask
 flask-cors
 requests
